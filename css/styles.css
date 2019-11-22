@@ -1,0 +1,51 @@
+body {
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.logo{
+    width: 300px;
+    border: solid 1px #ffffff;
+    text-align: center;
+    margin-bottom: -60px;
+    display: inline;
+    border-radius: 20px;
+}
+
+
+.main-title {
+    //display: inline;
+    margin-top: 120px;
+}
+
+.responsive-img {
+    width: 50rem;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.redes {
+    width: 50px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+.responsive-img-dif {
+    height: 28rem !important;
+}
+
+.contenido-img {
+    width: 80%;
+    margin: 20px;
+}
+
+.author-img {
+    width: 150px;
+    margin: 5px;
+}
+
+button {
+    margin: 10px;
+}
